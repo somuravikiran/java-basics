@@ -1,5 +1,5 @@
 //Write a program to print the Fibonacci series up to n terms
-public class fibonacci {
+public class Fibonacci {
     
     public static void main(String[] args) {
         
